@@ -27,6 +27,8 @@ gem 'turbolinks'
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 gem 'jbuilder', '~> 1.2'
 
+gem 'devise', '~> 3.2'
+gem 'activeadmin', :github => 'activeadmin'
 gem 'haml'
 
 gem 'bower-rails'
